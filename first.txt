@@ -1,4 +1,4 @@
-my first file in git(edited)
+my first file in git(edited)----twice
 cahnged first file
 another line in first file
 again modified
